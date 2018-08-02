@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tactix</title>
+	<style type="text/css">
+		* {
+			box-sizing:border-box;
+		}
+
+		html, body {
+			margin:0;
+			padding:0;
+			width:100%;
+			height:100%;
+			overflow:hidden;
+		}
+
+		body {
+			background-color:#111;
+			position:relative;
+		}
+
+		#screen {
+			position:absolute;
+			top:50%;
+			left:50%;
+			background-color:#444;
+			box-shadow:0 0 20px black;
+		}
+	</style>
+</head>
+<body>
+	<canvas id="screen" width="0" height="0">No Canvas Available.</canvas>
+	<script type="text/javascript" src="bundle.js"></script>
+</body>
+</html>

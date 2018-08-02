@@ -1,0 +1,11 @@
+{
+	"name": "Tactix",
+	"main": "www/index.html",
+	"window": {
+		"resizable": true,
+		"width": 710,
+		"height": 470,
+		"icon": "www/assets/soldier/idle/west_0.png",
+		"always_on_top": false
+	}
+}
