@@ -1,5 +1,5 @@
 {
-	"name": "Tactix",
+	"name": "tactix",
 	"main": "www/index.html",
 	"window": {
 		"resizable": true,
